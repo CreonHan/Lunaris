@@ -1,0 +1,5 @@
+{
+  "name": "Lunaris",
+  "description": "An interactive, aesthetic moon phase visualizer. Travel through time and watch the moon phases transition smoothly with realistic lighting simulations.",
+  "requestFramePermissions": []
+}
